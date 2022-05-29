@@ -27,7 +27,7 @@ Install Visual Studio with Desktop development with C++ (to compile C++ toolkit 
  <img src="Assets/Spyder_run.png" width="1000" height="1000"><br />
 
  ### Webcam<br />
- <img src="Assets/Webcam.png" width="700" height="600"><br />
+ <img src="Assets/WEBCAM.png" width="700" height="600"><br />
  
  ### Attendance Sheet<br />
  <img src="Assets/Attendance_updated.png" width="350" height="700"><br />

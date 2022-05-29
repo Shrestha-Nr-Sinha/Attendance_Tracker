@@ -2,7 +2,9 @@
  ### About 
   This project is all about taking attendance using face recognition.
   
-  The model is trained with some images. When the person stands in front of webcam then his/her face will be recognized using trained images and his/her attendance will be updated in the excel sheet with name and time.
+  The model has an accuracy of 99.38% on the Labelled Faces in the Wild (LFW) benchmark.
+  
+  Initially, this is trained with some images. When the person stands in front of webcam then his/her face will be recognized using trained images and his/her attendance will be updated in the excel sheet with name and time.
 
 # Pre-requisites
 Install Visual Studio with Desktop development with C++ (to compile C++ toolkit ,i.e., Dlib) 

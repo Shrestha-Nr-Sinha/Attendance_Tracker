@@ -4,23 +4,26 @@
   
   The model is trained with some images. When the person stands in front of webcam then his/her face will be recognized using trained images and his/her attendace will be updated in the excel sheet with name and time.
 
-# Steps to run the application
- 1.install the apk from the link below <br />
-          https://drive.google.com/file/d/1OGYhpiVzYAOJPH85L9QFIznbgDKSo6us/view?usp=drivesdk
- <br />
+# Pre-requisites
+Install Visual Studio with Desktop development with C++ (to compile C++ toolkit ,i.e., Dlib) 
+
+# Steps to run the program :
+ 1. Clone all the files to your computer.
+ 2. Go to your Aaconda Prompt and set up the environment: "create -n oneshot python=3.7"
  
- 2.Sign in with google or sign up, verify your email and sign in again
+    (I have kept my environment name as "oneshot", you can keep it as your wish.)
+ 3. 
  
  # Screenshots:-
  
  ### Anaconda Prompt<br />
- <img src="Assets/Anaconda_Prompt.png" width="700" height="700"><br />
+ <img src="Assets/Anaconda_Prompt.png" width="900" height="700"><br />
  
  ### Spyder<br />
  <img src="Assets/Spyder_run.png" width="1000" height="1000"><br />
 
  ### Webcam<br />
- <img src="Assets/Webcam.png" width="600" height="600"><br />
+ <img src="Assets/Webcam.png" width="700" height="600"><br />
  
  ### Attendance Sheet<br />
  <img src="Assets/Attendance_updated.png" width="350" height="700"><br />

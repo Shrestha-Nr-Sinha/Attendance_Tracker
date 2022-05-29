@@ -11,17 +11,17 @@
  
  2.Sign in with google or sign up, verify your email and sign in again
  
- # Screenshots of the Application:-
+ # Screenshots:-
  
- ### Starting Page<br />
+ ### Anaconda Prompt<br />
  <img src="Assets/Anaconda_Prompt.png" width="700" height="700"><br />
  
- ### Signin Page<br />
+ ### Spyder<br />
  <img src="Assets/Spyder_run.png" width="1000" height="1000"><br />
 
- ### Signup Page<br />
+ ### Webcam<br />
  <img src="Assets/Webcam.png" width="600" height="600"><br />
  
- ### User Verification Mail<br />
+ ### Attendance Sheet<br />
  <img src="Assets/Attendance_updated.png" width="350" height="700"><br />
  

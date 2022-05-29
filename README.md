@@ -16,7 +16,7 @@ Install Visual Studio with Desktop development with C++ (to compile C++ toolkit 
  4. Install all the required libraries: " pip install -r requirements.txt ".
  5. Install spyder: " pip install spyder ".
  6. Run the code in spyder (Shift+Enter). Your face will get recognized by the trained images and gets updated to the excel sheet.
- 7. Check the excel sheet for attendace.
+ 7. Check the excel sheet for attendance.
  
  # Screenshots:-
  

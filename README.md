@@ -14,14 +14,14 @@
  # Screenshots of the Application:-
  
  ### Starting Page<br />
- <img src="Assets/Anaconda_prompt.png" width="350" height="700"><br />
+ <img src="Assets/Anaconda_Prompt.png" width="700" height="700"><br />
  
  ### Signin Page<br />
- <img src="Assets/Spyder_run.png" width="350" height="700"><br />
+ <img src="Assets/Spyder_run.png" width="1000" height="1000"><br />
 
  ### Signup Page<br />
- <img src="Assets/Webcam.png" width="350" height="700"><br />
+ <img src="Assets/Webcam.png" width="600" height="600"><br />
  
  ### User Verification Mail<br />
- <img src="Assets/Attendance_updated" width="350" height="700"><br />
+ <img src="Assets/Attendance_updated.png" width="350" height="700"><br />
  

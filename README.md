@@ -1,8 +1,8 @@
 # Attendance_Tracker
  ### About 
-  This program is all about taking attendace using face recognition.
+  This project is all about taking attendance using face recognition.
   
-  The model is trained with some images. When the person stands in front of webcam then his/her face will be recognized using trained images and his/her attendace will be updated in the excel sheet with name and time.
+  The model is trained with some images. When the person stands in front of webcam then his/her face will be recognized using trained images and his/her attendance will be updated in the excel sheet with name and time.
 
 # Pre-requisites
 Install Visual Studio with Desktop development with C++ (to compile C++ toolkit ,i.e., Dlib) 

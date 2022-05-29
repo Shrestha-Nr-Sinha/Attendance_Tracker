@@ -2,18 +2,9 @@
  ### About 
   This program is all about taking attendace using face recognition.
   
-  The model is trained with some images.
-## Team Details
-### TEAM NAME :- TRIO <br />
+  The model is trained with some images. When the person stands in front of webcam then his/her face will be recognized by the model using trained images and his/her attendace will be updated in the excel sheet with name and time.
+  
 
- MEMBERS NAME :-
-
- NAME - Prajeeth <br />
- ROLL - S20200020303 <br />
- NAME -Mayank Gupta <br />
- ROLL - S20200020280 <br />
- NAME - Aalhad Ajay Kate <br />
- ROLL - S20200010001 <br />
 # Pre-requisites
 Android mobile with Android 6.0 and above
 # Steps to run the application
